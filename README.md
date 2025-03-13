@@ -43,13 +43,13 @@ Both scripts support the following command-line options:
 
 ```bash
 # Run in test mode (process only the first 100 images)
-python script.py --testing
+python pastec-batch-index-add.py --testing
 
 # Specify a different CSV file
-python script.py --csv my_images.csv
+python pastec-batch-index-add.py --csv my_images.csv
 
 # Specify a different base path
-python script.py --base-path /path/to/my/images
+python pastec-batch-index-add.py --base-path /path/to/my/images
 ```
 
 ## Output Files
