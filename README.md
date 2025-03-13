@@ -1,6 +1,6 @@
 # Pastec Batch Processing
 
-This repository contains Python scripts for batch processing images with the [Pastec](https://github.com/Visu4link/pastec) image recognition engine. These scripts allow you to:
+This repository contains Python scripts for batch processing images with the [Pastec](https://github.com/lklic/pastec) image recognition engine. These scripts allow you to:
 
 1. **Add images to the Pastec index in batches** (`pastec-batch-index-add.py`)
 2. **Search for similar images in the Pastec index** (`pastec-batch-index-search.py`)
